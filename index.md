@@ -1,18 +1,16 @@
-<a href="https://github.com/intbio/mol_model_course_2023/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
-# Molecular Modeling and Simulations for Biologists (Spring 2023)
+<a href="https://github.com/intbio/mm_2024/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
+# Molecular Modeling and Simulations for Biologists (Spring 2024)
 
 ### Contact information
 - Instructor: Alexey K. Shaytan, PHD alex@intbio.org
 - Teaching assistant: 
-- [Telegram link](https://t.me/+qX_eshjQCoM3MzIy)
-- [Folder with presentations](https://www.dropbox.com/sh/a82al5mfcbhi7co/AABpd8zZAEjnrCIniMBhxK2Wa?dl=0)
-- [BBB link](https://distant.bioeng.ru/b/gvv-7mb-rdi-zv2)
-- [Home work folder](https://www.dropbox.com/request/FwV8ZjdKGk5xQecatCjj)
+- [Telegram link](https://t.me/+RUEuM8rctSY0ZmFi)
+- [Home work folder](https://www.dropbox.com/request/YZeuqKGGBT1bQhikDmF1)
 
 ### Meetings and Location
 - Classroom: Bioeng Dept. (Leninskie Gory 1-73), rooms 542, 543
-- Lectures: Fridays 12:45-14:15
-- Seminars: 14:50 - 16:20
+- Lectures: Wednesday 9:00-10:35
+- Seminars: 15:00 - 16:35
 
 
 ### Credits
@@ -48,15 +46,14 @@ The course provides an overview of molecular modeling and simulations methods in
 
 ### Required resources
  1. Laptop or workstation with access to internet.
- 2. Web-cam in case of distant learning.
- 2. An account on Newton Server https://newton.bioeng.ru See instructions [here](https://github.com/intbio/IT_notes/blob/master/newton_cheatsheet.md).
+ 2. An account on Sandbox Server 
  3. [Pymol](https://pymol.org/2/) installed locally on your workstation/laptop.
  4. [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/) installed locally on your workstation/laptop.
  5. [VMD](https://www.ks.uiuc.edu/Research/vmd/) installed locally on your workstation/laptop.
- 6. [Avogadro](https://avogadro.cc) installed locally on your workstation/laptop.
+
 
 ### Course calendar
-- Dates: 2/10/2023; 2/17/2023 ; 3/3/2023 ; 3/10/2023 ; 3/17/2021 ; 3/24/2023 ; 3/31/2023 ; 4/7/2023 ; ?4/14/2023 ; ?4/21/2023 ; 4/28/2023 ; 5/5/2023 ; 5/12/2023; ; 5/19/2023 
+- Dates: 7/2/2024; 14/2/2024; 21/2/2024; 28/2/2024; 6/3/2024; 13/3/2024; 20/3/2024; 27/3/2024; 3/4/2024; 17/4/2024; 24/4/2024; ?8/5/2024; 15/5/2024; 
 
 ### Attendance policy
 - 100% attendance is required
@@ -65,7 +62,7 @@ The course provides an overview of molecular modeling and simulations methods in
 
 ### Assignments policy
 - Assignments are due in two weeks.
-- Assignments should be uploaded via [this link](https://www.dropbox.com/request/FwV8ZjdKGk5xQecatCjj) in one file (doc, pdf, zip). The name of the file is as follows: Asgmt_Number_Surname_Initials. E.g. Asgmt_2_Petrov_AV.pdf
+- Assignments should be uploaded via [this link](https://www.dropbox.com/request/YZeuqKGGBT1bQhikDmF1) in one file (doc, pdf, zip). The name of the file is as follows: Asgmt_Number_Surname_Initials. E.g. Asgmt_2_Petrov_AV.pdf
 - Assignments are graded on a 100 point scale
 - Late policy: 10 points are deducted for week the assignment is late. 
 
