@@ -8,6 +8,7 @@
 - Запуск Python-скриптов в командной строке.
 - Управление модулями командой module
 - Менеджер пакетов conda
+- JupyterLab
 - Git и GitHub.
 
 ## Справочные материалы
@@ -16,7 +17,6 @@
 - [Git](https://github.com/intbio/IT_notes/blob/master/git.md)
 
 ## Самостоятельная (домашняя) работа.
-
 - Создайте окружение conda `PLUMED` c Python 3.7.
 - С помощью него установите:
 1. Gromacs+PLUMED
