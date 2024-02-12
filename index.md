@@ -79,7 +79,7 @@ The course provides an overview of molecular modeling and simulations methods in
      
 <details><summary><ins>Семинар 1</ins> Использование ЭВМ и доступ к ним, установка, настройка программ и сред </summary> Использование ОС Линукс, подключение к вычислительному кластеру, SSH, X2GO, установка и компиляция программ. Использование репозиториев, GitHub. Установка и использование программ визуализации структур.
      
-- <a href="https://intbio.org/mol_model_course_2023/workshops/workshop1"> Протокол семинара </a>
+- <a href="https://intbio.org/mm_2024/workshops/workshop1"> Протокол семинара </a>
      
 </details>
 
