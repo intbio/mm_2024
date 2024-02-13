@@ -105,7 +105,7 @@ The course provides an overview of molecular modeling and simulations methods in
 <details><summary><ins>Лекция 2</ins></summary> Форматы хранения информации о структуре молекул (PDB, mmCIF, mol2, Z-матрицы и др.). Формат PDB, поля формата. Происхождение структурной информации, основные экспериментальные методы, представление данных. Элементарная ячейка кристалла, асиметричная единица, понятие BioAssembly, кристаллографическая и некристаллографическая симметрии структур. PDB: B-факторы, occupancy. PDB: специфика ЯМР структур. Правила описания белков, нуклеиновых кислот, липидов, лигандов. Тяжелоатомные и протонированные модели. Протонирование моделей. Базы данных структур. Базы PDB, NDB, MMDB, CCDC, EMDB. Поиск в базах данных, поиск по последовательности и по структуре. Форматы записи электронной плотности. Типичные проблемы в структурах, ротамеры боковых цепей. Определение качества PDB структур. Программы анализа качества структур. 
 
 
-<a href="https://www.dropbox.com/s/lh6w1280fghwxnc/Lecture2.ppt?dl=0">Слайды лекции.</a> 
+<a href="https://www.dropbox.com/scl/fi/r2aen4dsp57ehpw3xqw5l/Lecture2.ppt?rlkey=hz3l3rhp09ae2w2a2uus9583i&dl=0">Слайды лекции.</a> 
 </details>
 <details><summary><ins>Required reading</ins></summary>
   - <a href="https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/introduction">Introduction to PDB Data</a>
