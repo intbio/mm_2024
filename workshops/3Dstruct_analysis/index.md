@@ -1,6 +1,7 @@
 # Workshop: Analyzing 3D PDB structures.
 
 ## Description
+### Part 1.
 - Complex analysis of PDB structures
 - Duration: 90 minutes
 - Objectives: be able to 
@@ -8,9 +9,10 @@
     - do analysis in Python using MDanalysis and Prody libraries
     - select, extract and analyze atom coordinates and dihedral angles.
     - add hydrogens to the structure
-    - identify hydrogen bonds
+ ### Part 2. 
     - identify protonation states
     - assign charges to the atoms
+    - identify hydrogen bonds
     - compute and analyze electrostatic surface
     - build contact maps
     - identify domains
@@ -48,6 +50,19 @@
 
 ## Assignments
 
+Семинар 3.1. 
+0. Загрузите структуру PDB ID 6T78 и посмотрите на струтуктуру с помощью nglview. 
+1. С поомщью MDAnalysis опишите какие есть сегменты в структуре, сколько аминокислотных остатков или пар нуклеотидов в каждом из сегментов.
+2. Отрисуйте структуру таким образом, чтобы были видны атомы и связи (например, licorice representation).
+3. Добавьте водороды в структуру. Отрисуйте новую структуру так, чтобы были видны водороды.
+4. Расчитайте длину ДНК. Для эттого для крайних пар нуклеотидов ДНК (внимательно смотрите на нумерацию остатков) найдите координаты центров масс и рассчитайте длину вектора между центрами масс.
+5*. (сложное) Удлините фрагмент ДНК. Для этого
+   - создайте новый объект universe - u2, в котором выберите только ДНК
+   - С помощью функции alignto сделайте выравнивание нижнего края ДНК нового universe объекта (u2) с верхним краем ДНК старого universe объекта (u1), (https://docs.mdanalysis.org/1.0.1/documentation_pages/analysis/align.html)
+   - сделайте Merge(u1.atoms, u2.select_atoms(ВЫБОРКА ДНК).atoms) (https://docs.mdanalysis.org/2.7.0/documentation_pages/core/universe.html#MDAnalysis.core.universe.Merge)
+   - запишите результат функции Merge в новый PDB файл с помощью функции write (https://docs.mdanalysis.org/2.7.0/documentation_pages/core/groups.html#MDAnalysis.core.groups.AtomGroup.write).  
+
+Семинар 3.2. 
 A  PDB structure of a protein with at least two domains  will be suggested for analysis.
 The assignment report should include section detailing the following:
 
