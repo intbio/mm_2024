@@ -9,6 +9,7 @@
     - do analysis in Python using MDanalysis and Prody libraries
     - select, extract and analyze atom coordinates and dihedral angles.
     - add hydrogens to the structure
+      
  ### Part 2. 
     - identify protonation states
     - assign charges to the atoms
@@ -58,9 +59,10 @@
 4. Расчитайте длину ДНК. Для эттого для крайних пар нуклеотидов ДНК (внимательно смотрите на нумерацию остатков) найдите координаты центров масс и рассчитайте длину вектора между центрами масс.
 5. (сложное) Удлините фрагмент ДНК. Для этого
    - создайте новый объект universe - u2, в котором выберите только ДНК
-   - С помощью функции alignto сделайте выравнивание нижнего края ДНК нового universe объекта (u2) с верхним краем ДНК старого universe объекта (u1), (https://docs.mdanalysis.org/1.0.1/documentation_pages/analysis/align.html)
-   - сделайте Merge(u1.atoms, u2.select_atoms(ВЫБОРКА ДНК).atoms) (https://docs.mdanalysis.org/2.7.0/documentation_pages/core/universe.html#MDAnalysis.core.universe.Merge)
-   - запишите результат функции Merge в новый PDB файл с помощью функции write (https://docs.mdanalysis.org/2.7.0/documentation_pages/core/groups.html#MDAnalysis.core.groups.AtomGroup.write).  
+   - С помощью функции [alignto](https://docs.mdanalysis.org/1.0.1/documentation_pages/analysis/align.html) сделайте выравнивание нижнего края ДНК нового universe объекта (u2) с верхним краем ДНК старого universe объекта (u1), 
+   - сделайте [Merge](https://docs.mdanalysis.org/2.7.0/documentation_pages/core/universe.html#MDAnalysis.core.universe.Merge)
+(u1.atoms, u2.select_atoms(ВЫБОРКА ДНК).atoms)
+   - запишите результат функции Merge в новый PDB файл с помощью функции [write](https://docs.mdanalysis.org/2.7.0/documentation_pages/core/groups.html#MDAnalysis.core.groups.AtomGroup.write).  
 
 Семинар 3.2. 
 A  PDB structure of a protein with at least two domains  will be suggested for analysis.
