@@ -11,17 +11,17 @@
     - add hydrogens to the structure
       
  ### Part 2. 
-    - identify protonation states
-    - assign charges to the atoms
-    - identify hydrogen bonds
-    - compute and analyze electrostatic surface
-    - build contact maps
-    - identify domains
-    - find homologous structures
-    - make structural alignment, compute RMSD
-    - generate sequence alignment from structural alignment
-    - identify residue conservation
-    - analyze dynamics using elastic networks models
+ - identify protonation states
+ - assign charges to the atoms
+ - identify hydrogen bonds
+ - compute and analyze electrostatic surface
+ - build contact maps
+ - identify domains
+ - find homologous structures
+ - make structural alignment, compute RMSD
+ - generate sequence alignment from structural alignment
+ - identify residue conservation
+ - analyze dynamics using elastic networks models
 
 ## Jupyter notebook
 - [3Dstruct_analysis.ipynb](3Dstruct_analysis.ipynb)
