@@ -64,23 +64,19 @@
 (u1.atoms, u2.select_atoms(ВЫБОРКА ДНК).atoms)
    - запишите результат функции Merge в новый PDB файл с помощью функции [write](https://docs.mdanalysis.org/2.7.0/documentation_pages/core/groups.html#MDAnalysis.core.groups.AtomGroup.write).  
 
-Семинар 3.2. 
-A  PDB structure of a protein with at least two domains  will be suggested for analysis.
-The assignment report should include section detailing the following:
+Семинар 3.2.
+0. Выберите одноцепочечную белковую структуру на ваше усмотрение.
+Для неё:
+1. Постройте карту Рамачандрана
+2. Постройте карту контактов остатков белка
+3. Определите состояния протонирования ионизируемых остатков (сравните модельную и реальную pKa)
+4. Визуализируйте электростатический потенциал на поверхности с помощью PDB2PQR и APBS
+5. Найдите структуру, родственную Вашей (можно найти в базах SCOPe, PFAM и т.п.)
+Для двух гомологичных структур:
+6. Сделайте структурное выравнивание, определите RMSD
+7. Сделайте выравнивание последовательностей
+8. Покрасьте выровненные структуры по консервативности
 
-1. Protein dihedral angle analysis
-2. Contact maps
-3. Identify domains
-4. Find homologous structural domains, compute RMSD
-5. Identify protonation states of ionizable residues 
-6. Surface analysis
-    - identify polar, charge, hydrophopic residues on the surface
-    - visualize electorstatic potential at the surface using PDB2PQR and APBS
-7. Dynamics analysis
-8. Conservation analysis
-
-### Suggested problem sets
-Each student should take a unique PDB structure with at least two domains from the PDB web-site at his/her own discretion.
 
 ### Troubleshooting
 - Consult with the seminar protocol/recording
