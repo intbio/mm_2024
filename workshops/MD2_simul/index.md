@@ -29,12 +29,13 @@
 
 ## Assignments
 
-Perform a short MD simulation for a protein of your choice in Gromacs.
+Perform a short MD simulation for a protein of your choice in Gromacs. Short one-chain proteins are preferred.
 Expect, that an arbitary chosen protein structure may not be well suited for straightforward
-simulations. It may have partially unresolved residues, ligands, etc. Seek advice in advance via Slack.
+simulations. It may have partially unresolved residues, ligands, etc. Seek advice in advance via Telegram.
 
 1. Present snapshots of system before and after simulations.
 2. Include plots of energy, temperature, box size versus simulation time.
+3. Prepare another system with your protein in rectangular box with walls ratio 3:1:1. The protein should be placed near one of the walls (not in the center of the box). Add water (any model except TIP3P) and ions (KCl) with 200 mM concentration. Describe your actions in detail.
 
 
 ### Suggested problem sets
