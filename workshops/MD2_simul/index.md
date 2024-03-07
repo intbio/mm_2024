@@ -43,4 +43,4 @@ Each student should take a unique PDB structure  at his/her own discretion.
 
 ### Troubleshooting
 - Consult with the seminar protocol/recording
-- Ask questions in Slack
+- Ask questions in Telegram
