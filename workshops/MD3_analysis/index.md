@@ -10,7 +10,7 @@
     - Analyze protein RMSD
     - Analyze distances, angles, contacts, hydrogen bonds, etc.
     - Analyze radial distribution functions.
-    - Analyze kintetic parameters (diffusion, etc.)
+    - Analyze kinetic parameters (diffusion, etc.)
     - Analyze thermodynamic fluctuations
     
 
@@ -36,10 +36,9 @@ Following analyses of this system will be needed as an assignment:
 1. Calculate system density, perform proper etimate of statistical uncertainty.
 2. Calcuate RMSD of the protein with time. Make conclusions if the system has reached local equilibrium state.
 3. Calcuate distance between N- and C-ends of protein. Make conclusions if the system has reached local equilibrium state. 
-4. Calcualte the nunmber of hydrogen bonds within your protein and with water. Estimate average number (with uncertainty). Plot variation with time.
+4. Calcualte the number of hydrogen bonds within your protein and with water. Estimate average number (with uncertainty). Plot variation with time.
 5. Calculate radial distribution function between water molecules.
-6. Estimate water diffusion coefficients from mean square displacement.
-7. Calculate the isochoric heat capacity of the system from energy fluctuations (Note: you will need to simulate in NVT ensemble, but find the optimal volume at 1 bar first) or from simulations at different temperatures.
+6. Using VMD select water molecules within 3 Å of the protein. Visualize them as spheres and color white. Calculate their RMSD (min, max and average)
 
 
 
