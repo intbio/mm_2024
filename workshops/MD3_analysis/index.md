@@ -38,7 +38,7 @@ Following analyses of this system will be needed as an assignment:
 3. Calcuate distance between N- and C-ends of protein. Make conclusions if the system has reached local equilibrium state. 
 4. Calcualte the number of hydrogen bonds within your protein and with water. Estimate average number (with uncertainty). Plot variation with time.
 5. Calculate radial distribution function between water molecules.
-6. Using VMD select water molecules within 3 Å of the protein. Visualize them as spheres and color white. Calculate their RMSD (min, max and average)
+6. Using VMD select water molecules within 3 Å of the protein. Visualize them as spheres and color white. Calculate their RMSD (min, max and average).
 
 
 
