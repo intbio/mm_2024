@@ -19,7 +19,7 @@
 - [MD_analysis.ipynb](MD_analysis.ipynb)
 
 ## Required software and resources
-- Access to a Jupyter notebook evironment with Python 3, MDanalysis, nglview libraries
+- Access to a Jupyter notebook evironment with Python 3, MDAnalysis, nglview libraries
 - Access to Newton cluster with Gromacs installed or install Gromacs at your local workstation. See [http://www.gromacs.org](http://www.gromacs.org)
 
 ## Learning resources
