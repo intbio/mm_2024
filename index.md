@@ -177,7 +177,7 @@ The course provides an overview of molecular modeling and simulations methods in
 
 
 <details><summary><ins>Лекция 6</ins> Дизайн и анализ молекулярно-динамических экспериментов.</summary> Выбор стартового состояния. Выбор набора систем для сравнительного моделирования. Выбор силового поля. Выбор времени моделирования и количества моделирумых систем. Методы работы с траекториями. Выход на равновесие. Иерархия динамических веремен. Анализ средних, флуктуаций, статистической достоверности. Автокорреляционные функции. Связь корреляции и диффузии. Энтальпия взаимодействия, теплоемкость. Функции радиального распределения. Анализ RMSD, d-RMSD. Кластерный анализ. Сетевой анализ. Анализ на основе марковских моделей. Добавление внешних воздействий. Примеры результатов моделирования различных систем (фолдинг белков, диффузия лигандов в белках, биомембраны, ионные каналы, ДНК-белковые комплексы). Транспортные коэффициенты. Анализ главных компонент. Методы понижения размерности. Применение нейросетей. 
-<a href="https://www.dropbox.com/s/bt58dd8th5ffse7/Lecture6.ppt?dl=0">Слайды лекции.</a> 
+<a href="https://www.dropbox.com/scl/fi/acr6kf5x9d9fkfj7v3lom/Lecture6.ppt?rlkey=m8bq8cmocgz6zus1p1qpkkv8n&dl=0">Слайды лекции.</a> 
 </details>
      
 <details><summary><ins>Семинар 6</ins> Анализ расчетов в MDAnalysis (Практика).</summary> 
@@ -190,7 +190,7 @@ The course provides an overview of molecular modeling and simulations methods in
 
 
 <details><summary><ins>Лекция 7</ins> Методы Монте-Карло. Вариации методов МД.</summary> Методы Монте-Карло. Методы марковских цепей Монте-Карло (Markov chain Monte-Carlo). Критерий Метрополиса-Хастингса. Методы улучшения возмжоностей статистических выборок (enhanced sampling techniques). Вычислительный отжиг (simulated annealing). Методы обмена репликами (Replica Exchange, Parallel tempering.). Метод зонтичной выборки (umbrella sampling, WHAM).  Метод адаптивной семщающей силы (ABF, adaptive biasing force). Различные виды коллективных переменных. Метод управляемой МД (steered MD). Адиабатически смещенная МД (adiabatic bias MD). Метод метадинамики. Метод ускоренной МД (accelerated MD). Методы расчета свободной энергии. Примеры оценки термодинамических параметров и профилей свободной энергии. Огрубленное моделирование. Мультимасштабное моделирование.
-<a href="https://www.dropbox.com/s/hzqcsfq87lanxr6/lecture7.ppt?dl=0">Слайды лекции.</a>
+<a href="https://www.dropbox.com/scl/fi/1b4471iihtcszjsrcyk5g/Lecture7.ppt?rlkey=x8pd5crsfijw8or0bjahjaj0d&dl=0">Слайды лекции.</a>
 </details>
      
 <details><summary><ins>Семинар 7</ins> Using PLUMED for enhanced sampling.</summary> 
