@@ -201,6 +201,12 @@ The course provides an overview of molecular modeling and simulations methods in
 см. описание семинара
 </details>
 
+<details><summary><ins>Suggested reading</ins></summary>
+ - <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.1949.10483310">Monte Carlo method 1949 paper</a>
+</details>
+
+     
+
 
 #### Модуль 4. Предсказание и дизайн структуры белков (2 недели).
 
