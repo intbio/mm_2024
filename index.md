@@ -211,7 +211,7 @@ The course provides an overview of molecular modeling and simulations methods in
 #### Модуль 4. Предсказание и дизайн структуры белков (2 недели).
 
 <details><summary><ins>Лекция 8</ins> Методы предсказания структры белков.</summary> Моделирование по гомологии. Создание выравнивания. Оценка качества модели. Детекция фолда. Протягивание. Скрытые марковские модели. Нейросети. Физические методы моделирования и предсказания.
-<a href="https://www.dropbox.com/s/3qiewrq9ahzczcw/Lecture8-9.ppt?dl=0">Слайды лекции.</a> <a href="https://example.com">Видеозапись.</a>
+<a href="https://www.dropbox.com/scl/fi/ds60diviuhjmjrsa8qlx1/Lecture8_new.pptx?rlkey=yi0zrvvo77tm2qpkg2cb6mno3&dl=0">Слайды лекции.</a> <a href="https://example.com">Видеозапись.</a>
 </details>
      
 <details><summary><ins>Семинар 8</ins> Знакомство с программами Modeller и AlphaFold.</summary> Знакомство с программой Modeller. Построение структурных моделей по гомологии с с известными структурами.  
