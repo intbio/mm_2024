@@ -14,7 +14,7 @@
 
 ## Jupyter notebooks
 - [PyRosetta Workshops](https://rosettacommons.github.io/PyRosetta.notebooks/).
-- The github repo (PyRosetta) is [here](https://github.com/RosettaCommons/PyRosetta.notebooks
+- The github repo (PyRosetta) is [here](https://github.com/RosettaCommons/PyRosetta.notebooks)
 - ProteinMPNN [basic](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.0/mpnn/examples/proteinmpnn_in_jax.ipynb) and [example](https://colab.research.google.com/github/dauparas/ProteinMPNN/blob/main/colab_notebooks/quickdemo.ipynb)
 - [RFDiffusion](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb#scrollTo=tVAE0BrnZoRR)
    
