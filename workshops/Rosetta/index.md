@@ -14,8 +14,7 @@
 
 ## Jupyter notebooks
 - [PyRosetta Workshops](https://rosettacommons.github.io/PyRosetta.notebooks/).
-- The github repo (PyRosetta) is [here](https://github.com/RosettaCommons/PyRosetta.notebooks)
-- PyRosetta Notebooks in Google Drive folder [here](https://drive.google.com/drive/folders/1T8KCXMGsaU0v3z4dBiA0QhuYkw9BlMwy?usp=sharing)
+- The github repo (PyRosetta) is [here](https://github.com/RosettaCommons/PyRosetta.notebooks
 - ProteinMPNN [basic](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.0/mpnn/examples/proteinmpnn_in_jax.ipynb) and [example](https://colab.research.google.com/github/dauparas/ProteinMPNN/blob/main/colab_notebooks/quickdemo.ipynb)
 - [RFDiffusion](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb#scrollTo=tVAE0BrnZoRR)
    
@@ -36,8 +35,8 @@
 
 Take a structure of interest (with 2 or more protein chains):
 
-1. Using pyRosetta, analyze energy between any two close residues of separate chains, output various energy terms. 
-2. (со звуздочкой) Using pyRosetta, take an arbitrary sequence of 10 amino acids. Try to do folding. Explore different lowest conformations depeding on the number of Monte-Carlo steps. Visualize results.
+1. Using pyRosetta, analyze energy between any two close residues of separate chains, output various energy terms.See 03.02-Analyzing-energy-between-residues.ipynb 
+2. (со звуздочкой) Using pyRosetta, take an arbitrary sequence of 10 amino acids. Try to do folding. Explore different lowest conformations depeding on the number of Monte-Carlo steps. Visualize results. See 04.01-Basic-Folding-Algorithm.ipynb 
 3. Use RFDiffusion to generate a new binder scaffold for the target protein. Use ProteinMPNN to generate the amino acid residues of the new binder. Use AlphaFold to check whether a complex similar to the original structure is formed. 
 
 ### Troubleshooting
