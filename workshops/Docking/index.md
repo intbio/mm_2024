@@ -28,9 +28,9 @@ Perform protein-ligand docking.
 
 1. Save protein and ligand PDB structures into different files (if need).
 2. Configure docking parameters.
-3. Perform protein-ligand docking via AutoDock Vina.
-4. Calculate RMSDs for all conformations.
-5. Compare results and visualize the best conformation.
+3. Perform protein-ligand docking via AutoDock Vina and SwissDock.
+4. Compare results, visualize best ligand conformations for every method and initial PDB.
+5. Calculate RMSDs for best conformations obtained with AutoDock Vina and SwissDock comparing with initial ligand PDB structure.
 
 ### Suggested problem sets
 Each student should take a unique PDB structure  at his/her own discretion.
